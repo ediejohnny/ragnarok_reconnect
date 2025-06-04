@@ -1,0 +1,18 @@
+## Dependências para a Interface Gráfica do Ragnarok Reconnect
+
+# GUI e interface
+pillow>=9.0.0          # Para manipulação de imagens (PIL/Pillow)
+
+# Automação e controle
+pyautogui>=0.9.53      # Automação de interface gráfica
+pydirectinput>=1.0.4   # Input direto para jogos
+
+# Processamento de imagem
+opencv-python>=4.5.0   # OpenCV para template matching
+numpy>=1.21.0          # Arrays numéricos para OpenCV
+
+# Sistema e monitoramento
+psutil>=5.8.0          # Informações do sistema e processos
+
+# NOTA: tkinter vem incluído com Python (não precisa instalar)
+# NOTA: interception é opcional e precisa ser instalado separadamente 

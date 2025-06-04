@@ -1,0 +1,6 @@
+pyautogui
+keyboard
+interception-python
+psutil
+time
+opencv
