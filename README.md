@@ -1,2 +1,2 @@
-# ragnarok_reconnect
+# Ragnarok Reconnect
 A software to reconnect to the Ragnarok Online when it gets disconnected...
